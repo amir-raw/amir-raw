@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 ---
 <div id="header" align="center">
   
- [![faiyaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username= amir-raw)](https://github.com/amir-raw/github-readme-activity-graph)
+ [![faiyaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amir-raw)](https://github.com/amir-raw/github-readme-activity-graph)
   
   </div>
 
