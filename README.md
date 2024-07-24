@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <div id="header" align="center">
-  https://raw.githubusercontent.com/deep-diver/deep-diver/1e602663d7f57ef64994b269d34fed8f9491cf98/github-contribution-grid-snake.gif
+  
  [![faiyaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amir-raw&theme=high-contrast	))](https://github.com/amir-raw/github-readme-activity-graph)
   
   </div>
