@@ -69,16 +69,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=amfam&show_icons=true&theme=transparent&text_color=00ffea&title_color=ff007a&icon_color=ffffff&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 0 15px #00ffea;"/>
   </a>
 </div>
-<style>
-  @keyframes neon-glow {
-    from {
-      text-shadow: 0 0 5px #00ffea, 0 0 10px #00ffea, 0 0 15px #00ffea;
-    }
-    to {
-      text-shadow: 0 0 10px #00ffea, 0 0 20px #00ffea, 0 0 30px #00ffea;
-    }
-  }
-  body {
-    background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%);
-  }
-</style>
+
