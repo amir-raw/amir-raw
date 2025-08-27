@@ -1,3 +1,4 @@
+<head><link href="https://fonts.googleapis.com/css2?family=Orbitron&family=Exo+2&family=Roboto+Mono&display=swap" rel="stylesheet">
 <div id="header" align="center">
   <h1 style="font-family: 'Orbitron', sans-serif; color: #00ffea; text-shadow: 0 0 10px #00ffea, 0 0 20px #00ffea; animation: neon-glow 1.5s ease-in-out infinite alternate;">
     Kon'nichiwa / こんにちは
