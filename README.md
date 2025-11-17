@@ -59,13 +59,6 @@
 ---
 
 <div align="center" style="margin: 20px;">
-  <h3 style="font-family: 'Orbitron', sans-serif; color: #00ffea; text-shadow: 0 0 8px #00ffea;">
-    🌌 My Coding Odyssey
-  </h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amir-raw&theme=react-dark&bg_color=0D1117&color=00ffea&line=ff007a&point=ffffff&hide_border=true" alt="GitHub Activity Graph" style="border-radius: 10px; box-shadow: 0 0 15px #00ffea; max-width: 100%;"/>
-</div>
-
-<div align="center" style="margin: 20px;">
   <a href="https://github.com/amfam">
     <img src="https://github-readme-stats.vercel.app/api?username=amfam&show_icons=true&theme=transparent&text_color=00ffea&title_color=ff007a&icon_color=ffffff&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 0 15px #00ffea;"/>
   </a>
